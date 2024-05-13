@@ -387,3 +387,7 @@ label.required:after {
     border: 0;
     border-radius: 10px;
 }
+.pgr{
+  filter: blur(5px);
+}
+
