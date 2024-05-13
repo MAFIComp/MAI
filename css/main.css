@@ -31,8 +31,8 @@
     --box-shadow: 0px 2px 15px hsl(var(--black) /.05);
     /* ================================ Box Shadow End =============================== */
     --base-gradient: linear-gradient(90deg, hsl(var(--base-two)) 36.85%, hsl(var(--base)) 60.47%);
-    --banner-gradient: linear-gradient(180deg, #020333 0%, #13265E 54.69%, #B97169 100%);
-    --railway-gradient: linear-gradient(359.96deg, #020333 -107.04%, #13265E 103.76%, #B97169 278.41%);
+    /* --banner-gradient: linear-gradient(180deg, #020333 0%, #13265E 54.69%, #B97169 100%);
+    --railway-gradient: linear-gradient(359.96deg, #020333 -107.04%, #13265E 103.76%, #B97169 278.41%); */
     --profit-gradient: linear-gradient(180deg, #1E296D -23.97%, #1E296D 92.31%);
     --background-gradient: linear-gradient(180deg,hsl(var(--base)) 9.03%,  hsl(var(--base-two)) 71.37%);
     --background-gradient-two: linear-gradient(180deg, hsl(var(--base)) 30.03%, hsl(var(--base-two)) 60.37%);
